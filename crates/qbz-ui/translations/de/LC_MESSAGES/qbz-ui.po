@@ -12,7 +12,7 @@ msgid "System Colors"
 msgstr "Systemfarben"
 
 msgid "Wallpaper Sync"
-msgstr "Wallpaper Sync"
+msgstr "Hintergrundbild Sync"
 
 msgid "Custom Image"
 msgstr "Eigenes Bild"
@@ -33,7 +33,7 @@ msgid "Add to queue"
 msgstr "Zur Warteschlange"
 
 msgid "Remember last"
-msgstr "Letzte merken"
+msgstr "merken (letze)"
 
 msgid "Album Reactive"
 msgstr "Album-Reaktiv"
@@ -54,7 +54,7 @@ msgid "Queue"
 msgstr "Warteschlange"
 
 msgid "Auto (opposite to window controls)"
-msgstr "Automatisch (gegenuber den Fenstersteuerungen)"
+msgstr "Automatisch (gegensetzlich zur Fenstersteuerung)"
 
 msgid "Left"
 msgstr "Links"
@@ -102,7 +102,7 @@ msgid "Compact"
 msgstr "Kompakt"
 
 msgid "Artwork"
-msgstr "Kunstwerk"
+msgstr "Cover"
 
 msgid "Home"
 msgstr "Start"
@@ -177,7 +177,7 @@ msgid "Loading…"
 msgstr "Wird geladen…"
 
 msgid "Failed to load booklet"
-msgstr "Booklet konnte nicht geladen werden"
+msgstr "Heft konnte nicht geladen werden"
 
 msgid "Add cover"
 msgstr "Cover hinzufügen"
@@ -210,7 +210,7 @@ msgid "Add to Library"
 msgstr "Zur Bibliothek hinzufügen"
 
 msgid "Make available offline"
-msgstr "Für offline verfügbar machen"
+msgstr "Offline verfügbar machen"
 
 msgid "Clear"
 msgstr "Löschen"
@@ -258,7 +258,7 @@ msgid "Newest"
 msgstr "Neueste"
 
 msgid "Oldest"
-msgstr "Alteste"
+msgstr "Älteste"
 
 msgid "A–Z"
 msgstr "A–Z"
@@ -303,7 +303,7 @@ msgid "Show artist"
 msgstr "Künstler anzeigen"
 
 msgid "Blacklist artist"
-msgstr "Künstler sperren"
+msgstr "Künstler blockieren"
 
 msgid "This artist is hidden from discovery"
 msgstr "Dieser Künstler ist von der Entdeckung ausgeblendet"
@@ -372,7 +372,7 @@ msgid "LABELS"
 msgstr "LABELS"
 
 msgid "No label info"
-msgstr "Keine Label-Informationen"
+msgstr "Keine Informationen zum Label"
 
 msgid "SIMILAR ARTISTS"
 msgstr "ÄHNLICHE KÜNSTLER"
@@ -381,7 +381,7 @@ msgid "RELATIONSHIPS"
 msgstr "BEZIEHUNGEN"
 
 msgid "Members & Former"
-msgstr "Mitglieder & ehemalige"
+msgstr "Mitglieder & Ehemalige"
 
 msgid "Member Of"
 msgstr "Mitglied von"
@@ -408,7 +408,7 @@ msgid "Follow"
 msgstr "Folgen"
 
 msgid "View all"
-msgstr "Alle sehen"
+msgstr "Alle anzeigen"
 
 msgid "View all →"
 msgstr "Alle anzeigen →"
@@ -435,13 +435,13 @@ msgid "Elevate your day with a customized selection of music."
 msgstr "Bereichere deinen Tag mit einer personalisierten Musikauswahl."
 
 msgid "Take a weekly journey with a fresh mix every Friday."
-msgstr "Erleben Sie jede Woche eine neue Mischung – jeden Freitag."
+msgstr "Erlebe jede Woche eine neue Mischung – jeden Freitag."
 
 msgid "A fresh shuffle from your personal library."
-msgstr "Eine frische Mischung aus deinen persoenlichen Favoriten."
+msgstr "Eine frische Mischung aus deinen persönlichen Favoriten."
 
 msgid "Discover new music from your most-played playlists."
-msgstr "Entdecken Sie neue Musik aus Ihren meistgespielten Playlists."
+msgstr "Entdecke neue Musik aus deinen meistgespielten Wiedergabelisten."
 
 msgid "Open album"
 msgstr "Album öffnen"
@@ -471,19 +471,19 @@ msgid "Qobuz Playlists"
 msgstr "Qobuz-Playlists"
 
 msgid "No playlists match the selected categories."
-msgstr "Keine Playlists entsprechen den ausgewählten Kategorien."
+msgstr "Keine Wiedergabelisten entsprechen den ausgewählten Kategorien."
 
 msgid "Recently Played Albums"
 msgstr "Zuletzt gespielte Alben"
 
 msgid "Albums you play will appear here."
-msgstr "Alben, die Sie abspielen, erscheinen hier."
+msgstr "Alben, die du abspielst, erscheinen hier."
 
 msgid "Recently Played Tracks"
 msgstr "Zuletzt gespielte Titel"
 
 msgid "Tracks you play will appear here."
-msgstr "Titel, die Sie abspielen, erscheinen hier."
+msgstr "Titel, die du abspielst, erscheinen hier."
 
 msgid "Popular albums"
 msgstr "Beliebte Alben"
@@ -501,7 +501,7 @@ msgid "Customize"
 msgstr "Anpassen"
 
 msgid "Enabling more sections increases load time."
-msgstr "Das Aktivieren weiterer Bereiche erhöht die Ladezeit."
+msgstr "Eine Auswahl mehrerer Bereiche erhöht die Ladezeit."
 
 msgid "{} of {} enabled"
 msgstr "{} von {} aktiviert"
@@ -569,7 +569,7 @@ msgid "Artists"
 msgstr "Künstler"
 
 msgid "Playlists"
-msgstr "Playlists"
+msgstr "Wiedergabelisten"
 
 msgid "Labels"
 msgstr "Labels"
@@ -584,19 +584,19 @@ msgid "Search"
 msgstr "Suchen"
 
 msgid "Group: Off"
-msgstr "Gruppe: Aus"
+msgstr "Gruppierung: Aus"
 
 msgid "Group: Album"
-msgstr "Gruppe: Album"
+msgstr "Gruppierung: Album"
 
 msgid "Group: Artist"
-msgstr "Gruppe: Künstler"
+msgstr "Gruppierung: Künstler"
 
 msgid "Group: Name"
-msgstr "Gruppe: Name"
+msgstr "Gruppierung: Name"
 
 msgid "Group: A-Z"
-msgstr "Gruppe: A-Z"
+msgstr "Gruppierung: A-Z"
 
 msgid "Title A-Z"
 msgstr "Titel A-Z"
@@ -623,31 +623,31 @@ msgid "No albums in your Library yet."
 msgstr "Noch keine Alben in deiner Bibliothek."
 
 msgid "No albums match your search."
-msgstr "Keine Alben entsprechen Ihrer Suche."
+msgstr "Keine Alben entsprechen deiner Suche."
 
 msgid "No artists in your Library yet."
 msgstr "Noch keine Künstler in deiner Bibliothek."
 
 msgid "No artists match your search."
-msgstr "Keine Künstler entsprechen Ihrer Suche."
+msgstr "Keine Künstler entsprechen deiner Suche."
 
 msgid "No playlists match your search."
-msgstr "Keine Wiedergabelisten entsprechen Ihrer Suche."
+msgstr "Keine Wiedergabelisten entsprechen deiner Suche."
 
 msgid "No followed playlists yet."
 msgstr "Noch keine abonnierten Wiedergabelisten."
 
 msgid "No playlists in your Library yet."
-msgstr "Noch keine Playlists in deiner Bibliothek."
+msgstr "Noch keine Wiedergabelisten in deiner Bibliothek."
 
 msgid "No labels in your Library yet."
 msgstr "Noch keine Labels in deiner Bibliothek."
 
 msgid "No labels match your search."
-msgstr "Keine Labels entsprechen Ihrer Suche."
+msgstr "Keine Labels entsprechen deiner Suche."
 
 msgid "Select an artist to see their albums."
-msgstr "Wählen Sie einen Künstler, um dessen Alben anzuzeigen."
+msgstr "Wählen einen Künstler, um dessen Alben anzuzeigen."
 
 msgid "Couldn't load albums."
 msgstr "Alben konnten nicht geladen werden."
@@ -713,7 +713,7 @@ msgid "Group by letter"
 msgstr "Nach Buchstabe gruppieren"
 
 msgid "Group by artist"
-msgstr "Nach Kunstler gruppieren"
+msgstr "Nach Künstler gruppieren"
 
 msgid "By album"
 msgstr "Nach Album"
@@ -728,25 +728,25 @@ msgid "Search artists"
 msgstr "Künstler suchen"
 
 msgid "Couldn't load your local albums."
-msgstr "Ihre lokalen Alben konnten nicht geladen werden."
+msgstr "Lokale Alben konnten nicht geladen werden."
 
 msgid "No albums in your local library yet."
-msgstr "Noch keine Alben in Ihrer lokalen Bibliothek."
+msgstr "Noch keine Alben in deiner lokalen Bibliothek."
 
 msgid "Couldn't load your local tracks."
-msgstr "Ihre lokalen Titel konnten nicht geladen werden."
+msgstr "Lokale Titel konnten nicht geladen werden."
 
 msgid "No tracks in your local library yet."
-msgstr "Noch keine Titel in Ihrer lokalen Bibliothek."
+msgstr "Noch keine Titel in deiner lokalen Bibliothek."
 
 msgid "Add to Mixtape/Collection"
 msgstr "Zu Mixtape/Collection hinzufügen"
 
 msgid "No folders in your local library yet."
-msgstr "Noch keine Ordner in Ihrer lokalen Bibliothek."
+msgstr "Noch keine Ordner in deiner lokalen Bibliothek."
 
 msgid "No folders match your search."
-msgstr "Keine Ordner entsprechen Ihrer Suche."
+msgstr "Keine Ordner entsprechen deiner Suche."
 
 msgid "Search folders"
 msgstr "Ordner suchen"
@@ -758,7 +758,7 @@ msgid "Check all"
 msgstr "Alle auswählen"
 
 msgid "Select a folder to see its contents."
-msgstr "Wählen Sie einen Ordner aus, um seinen Inhalt anzuzeigen."
+msgstr "Wählen einen Ordner aus, um dessen Inhalt anzuzeigen."
 
 msgid "Search albums..."
 msgstr "Alben suchen..."
@@ -767,13 +767,13 @@ msgid "This folder has no tracks."
 msgstr "Dieser Ordner enthält keine Titel."
 
 msgid "No artists in your local library yet."
-msgstr "Noch keine Künstler in Ihrer lokalen Bibliothek."
+msgstr "Noch keine Künstler in deiner lokalen Bibliothek."
 
 msgid "artists"
 msgstr "Künstler"
 
 msgid "Select an artist to view their albums"
-msgstr "Wählen Sie einen Künstler, um seine Alben anzuzeigen"
+msgstr "Wähle einen Künstler aus, um seine Alben anzuzeigen"
 
 msgid "No albums found"
 msgstr "Keine Alben gefunden"
@@ -833,7 +833,7 @@ msgid "Use your system browser instead"
 msgstr "Stattdessen Systembrowser verwenden"
 
 msgid "No internet connection — you can start in offline mode with your local library and downloads"
-msgstr "Keine Internetverbindung — Sie können im Offline-Modus mit Ihrer lokalen Bibliothek und Downloads starten"
+msgstr "Keine Internetverbindung — Du kannst im Offline-Modus mit deiner lokalen Bibliothek und deinen Downloads starten"
 
 msgid "A network sign-in page may be blocking the connection"
 msgstr "Eine Netzwerk-Anmeldeseite blockiert möglicherweise die Verbindung"
@@ -845,7 +845,7 @@ msgid "Start offline (no access to Qobuz™ services)"
 msgstr "Offline starten (kein Zugriff auf Qobuz™-Dienste)"
 
 msgid "QBZ requires an active Qobuz™ subscription. Your credentials are sent directly to Qobuz™."
-msgstr "QBZ erfordert ein aktives Qobuz™-Abonnement. Ihre Anmeldedaten werden direkt an Qobuz™ gesendet."
+msgstr "QBZ erfordert ein aktives Qobuz™-Abonnement. Deine Anmeldedaten werden direkt an Qobuz™ gesendet."
 
 msgid "This application uses the Qobuz API but is not certified by Qobuz."
 msgstr "Diese Anwendung verwendet die Qobuz-API, ist jedoch nicht von Qobuz zertifiziert."
@@ -866,13 +866,13 @@ msgid "No album appearances found."
 msgstr "Keine Album-Beteiligungen gefunden."
 
 msgid "You're offline"
-msgstr "Sie sind offline"
+msgstr "Du bist offline"
 
 msgid "Offline mode is enabled. Disable it in Settings to use Qobuz."
-msgstr "Der Offline-Modus ist aktiviert. Deaktivieren Sie ihn in den Einstellungen, um Qobuz zu nutzen."
+msgstr "Der Offline-Modus ist aktiviert. Deaktiviere ihn in den Einstellungen, um Qobuz zu nutzen."
 
 msgid "No internet connection. Your local library and downloads keep working."
-msgstr "Keine Internetverbindung. Ihre lokale Bibliothek und Downloads funktionieren weiterhin."
+msgstr "Keine Internetverbindung. Deine lokale Bibliothek und Downloads funktionieren weiterhin."
 
 msgid "Open Settings"
 msgstr "Einstellungen öffnen"
@@ -916,7 +916,7 @@ msgid "No offline tracks yet"
 msgstr "Noch keine Offline-Titel"
 
 msgid "Search playlists…"
-msgstr "Playlists suchen…"
+msgstr "Suche Wiedergabelisten…"
 
 msgid "1 playlist"
 msgstr "1 Playlist"
@@ -931,7 +931,7 @@ msgid "No folder"
 msgstr "Kein Ordner"
 
 msgid "Playlist manager"
-msgstr "Playlist-Manager"
+msgstr "Wiedergabelisten-Manager"
 
 msgid "Visible"
 msgstr "Sichtbar"
@@ -961,22 +961,22 @@ msgid "{} folders, {} playlists"
 msgstr "{} Ordner, {} Playlists"
 
 msgid "Use the arrows to reorder playlists"
-msgstr "Verwenden Sie die Pfeile, um Playlists neu anzuordnen"
+msgstr "Verwenden Sie die Pfeile, um Wiedergabelisten neu anzuordnen"
 
 msgid "Folders ({})"
 msgstr "Ordner ({})"
 
 msgid "Playlists ({})"
-msgstr "Playlists ({})"
+msgstr "Wiedergabelisten ({})"
 
 msgid "No playlists found."
-msgstr "Keine Playlists gefunden."
+msgstr "Keine Wiedergabelisten gefunden."
 
 msgid "Artist"
 msgstr "Künstler"
 
 msgid "Playlist"
-msgstr "Playlist"
+msgstr "Wiedergabeliste"
 
 msgid "Search tracks"
 msgstr "Titel suchen"
@@ -1039,7 +1039,7 @@ msgid "Icon"
 msgstr "Icon"
 
 msgid "Hide from sidebar"
-msgstr "Aus Seitenleiste ausblenden"
+msgstr "In Seitenleiste verstecken"
 
 msgid "Delete"
 msgstr "Löschen"
@@ -1087,7 +1087,7 @@ msgid "Searching…"
 msgstr "Suche läuft…"
 
 msgid "No results, try a different search"
-msgstr "Keine Ergebnisse, versuchen Sie eine andere Suche"
+msgstr "Keine Ergebnisse, versuche einen anderen Suchbegriff"
 
 msgid "Apply"
 msgstr "Anwenden"
@@ -1102,7 +1102,7 @@ msgid "Write to audio files"
 msgstr "In Audiodateien schreiben"
 
 msgid "This writes tags directly into your audio files."
-msgstr "Dadurch werden Tags direkt in Ihre Audiodateien geschrieben."
+msgstr "Dadurch werden Tags direkt in deine Audiodateien geschrieben."
 
 msgid "Direct write is unavailable for CUE-based albums."
 msgstr "Direktes Schreiben ist für CUE-basierte Alben nicht verfügbar."
@@ -1114,25 +1114,25 @@ msgid "Saving…"
 msgstr "Wird gespeichert…"
 
 msgid "Edit playlist"
-msgstr "Playlist bearbeiten"
+msgstr "Wiedergabeliste bearbeiten"
 
 msgid "Playlist name"
-msgstr "Playlist-Name"
+msgstr "Name der Wiedergabeliste"
 
 msgid "Description"
 msgstr "Beschreibung"
 
 msgid "Offline-only playlist"
-msgstr "Nur-Offline-Playlist"
+msgstr "Nur-Offline-Wiedergabelisten"
 
 msgid "New playlist"
-msgstr "Neue Playlist"
+msgstr "Neue Wiedergabeliste"
 
 msgid "Name"
 msgstr "Name"
 
 msgid "My Playlist"
-msgstr "Meine Playlist"
+msgstr "Meine Wiedergabeliste"
 
 msgid "Description (optional)"
 msgstr "Beschreibung (optional)"
@@ -1141,10 +1141,10 @@ msgid "Folder"
 msgstr "Ordner"
 
 msgid "Make playlist public"
-msgstr "Playlist öffentlich machen"
+msgstr "Wiedergabeliste öffentlich machen"
 
 msgid "Created locally — you're offline"
-msgstr "Lokal erstellt – Sie sind offline"
+msgstr "Lokal erstellt – Du bist offline"
 
 msgid "Add to mixtape"
 msgstr "Zum Mixtape hinzufügen"
@@ -1162,7 +1162,7 @@ msgid "Some of these tracks were already added"
 msgstr "Einige dieser Titel wurden bereits hinzugefügt"
 
 msgid "This playlist already contains {} of the {} tracks you're adding. Add only the new ones, or add everything including duplicates."
-msgstr "Diese Playlist enthält bereits {} der {} Titel, die Sie hinzufügen. Fügen Sie nur die neuen hinzu oder alles einschließlich Duplikate."
+msgstr "Diese Playlist enthält bereits {} der {} Titel, die du hinzufügen möchtest. Sollen nur die Neuen hinzugefügt werden oder alles einschließlich der Duplikate?"
 
 msgid "Adding..."
 msgstr "Wird hinzugefügt..."
@@ -1174,25 +1174,25 @@ msgid "Add only new tracks"
 msgstr "Nur neue Titel hinzufügen"
 
 msgid "Add to Playlist"
-msgstr "Zur Playlist hinzufügen"
+msgstr "Zur Wiedergabeliste hinzufügen"
 
 msgid "Choose playlist"
-msgstr "Playlist wählen"
+msgstr "Wiedergabeliste auswählen"
 
 msgid "Adding {} local track(s)"
-msgstr "{} lokale(r) Titel werden hinzugefügt"
+msgstr "{} lokale(r) Titel wird/werden hinzugefügt"
 
 msgid "Adding {} track(s)"
-msgstr "{} Titel werden hinzugefügt"
+msgstr "{} Titel wird/werden hinzugefügt"
 
 msgid "+ Create new playlist"
-msgstr "+ Neue Playlist erstellen"
+msgstr "+ Neue Wiedergabeliste erstellen"
 
 msgid "Search playlists..."
-msgstr "Playlists suchen..."
+msgstr "Wiedergabeliste suchen..."
 
 msgid "Playlist Name"
-msgstr "Playlist-Name"
+msgstr "Name der Wiedergabeliste"
 
 msgid "Saving..."
 msgstr "Speichern..."
@@ -1204,19 +1204,19 @@ msgid "Add"
 msgstr "Hinzufügen"
 
 msgid "No playlists found"
-msgstr "Keine Playlists gefunden"
+msgstr "Keine Wiedergabeliste gefunden"
 
 msgid "{} more playlist(s)..."
-msgstr "{} weitere Playlist(s)..."
+msgstr "{} weitere Wiedergabeliste(n)..."
 
 msgid "Import Playlist"
-msgstr "Playlist importieren"
+msgstr "Wiedergabelisten importieren"
 
 msgid "This feature requires internet connection"
 msgstr "Diese Funktion erfordert eine Internetverbindung"
 
 msgid "Playlist URL"
-msgstr "Playlist-URL"
+msgstr "Wiedergabeliste-URL"
 
 msgid "ALLOWED SOURCES"
 msgstr "ZULÄSSIGE QUELLEN"
@@ -1240,7 +1240,7 @@ msgid "Fetching..."
 msgstr "Wird abgerufen..."
 
 msgid "Fetch playlist"
-msgstr "Playlist abrufen"
+msgstr "Wiedergabeliste abrufen"
 
 msgid "Shuffle"
 msgstr "Mischen"
