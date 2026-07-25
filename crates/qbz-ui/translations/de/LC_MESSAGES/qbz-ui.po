@@ -1282,16 +1282,16 @@ msgid "Guided DAC Setup"
 msgstr "Geführte DAC-Einrichtung"
 
 msgid "This wizard helps you configure your DAC for bit-perfect playback on Linux. QBZ never changes your system automatically — it auto-detects your DACs, shows you the exact commands and config to copy, and lets you test playback right here."
-msgstr "Dieser Assistent hilft Ihnen, Ihren DAC für bit-perfekte Wiedergabe unter Linux einzurichten. QBZ ändert Ihr System nie automatisch – es erkennt Ihre DACs, zeigt Ihnen die genauen Befehle und Konfigurationen zum Kopieren und lässt Sie die Wiedergabe direkt hier testen."
+msgstr "Dieser Assistent hilft dir dabei, deinen DAC für bit-perfekte Wiedergabe unter Linux einzurichten. QBZ ändert dein System nie automatisch – es erkennt deine DACs, zeigt dir die genauen Befehle und Konfigurationen zum Kopieren und lässt dich die Wiedergabe direkt hier testen."
 
 msgid "You are responsible for your own backups. This is a helper, not a system recovery tool."
-msgstr "Sie sind für Ihre eigenen Sicherungen verantwortlich. Dies ist ein Hilfsmittel, kein Systemwiederherstellungstool."
+msgstr "Du bist für deine eigenen Sicherungen verantwortlich. Dies ist ein Hilfsmittel, kein Systemwiederherstellungstool."
 
 msgid "What to test with"
 msgstr "Womit testen"
 
 msgid "The built-in test plays four tracks spanning different bit-depths and sample rates (16/44.1, 24/44.1, 24/96, 24/192) so you can see your DAC switch. If you'd rather use your own queue, add one track of each kind first so every rate is exercised."
-msgstr "Der integrierte Test spielt vier Titel mit unterschiedlichen Bittiefen und Abtastraten (16/44.1, 24/44.1, 24/96, 24/192), damit Sie das Umschalten Ihres DAC sehen. Wenn Sie lieber Ihre eigene Warteschlange verwenden möchten, fügen Sie zuerst je einen Titel jeder Art hinzu, damit alle Raten geprüft werden."
+msgstr "Der integrierte Test spielt vier Titel mit unterschiedlichen Bittiefen und Abtastraten (16/44.1, 24/44.1, 24/96, 24/192) ab, damit du das Umschalten deines DAC sehen kannst. Wenn du lieber deine eigene Warteschlange verwenden möchten, füge zuerst je einen Titel jeder Art hinzu, damit alle Raten geprüft werden können."
 
 msgid "I understand and accept these terms"
 msgstr "Ich verstehe und akzeptiere diese Bedingungen"
@@ -1303,7 +1303,7 @@ msgid "Sandboxed — host check unavailable"
 msgstr "In Sandbox – Host-Prüfung nicht verfügbar"
 
 msgid "QBZ is packaged as Flatpak/Snap and can't inspect your host audio stack. If playback already works, you're set. Pick your distribution and init system below for the right setup commands."
-msgstr "QBZ ist als Flatpak/Snap verpackt und kann Ihren Host-Audio-Stack nicht prüfen. Wenn die Wiedergabe bereits funktioniert, sind Sie startklar. Wählen Sie unten Ihre Distribution und Ihr Init-System für die richtigen Einrichtungsbefehle."
+msgstr "QBZ wird als Flatpak/Snap ausgeliefert und kann deinen Host-Audio-Stack nicht prüfen. Wenn die Wiedergabe bereits funktioniert, bist du startklar. Wähle unten deine Distribution und dein Init-System aus, für die richtigen Einrichtungsbefehle."
 
 msgid "Audio stack ready"
 msgstr "Audio-Stack bereit"
@@ -1312,13 +1312,13 @@ msgid "Some packages are missing"
 msgstr "Einige Pakete fehlen"
 
 msgid "Your distribution"
-msgstr "Ihre Distribution"
+msgstr "Deine Distribution"
 
 msgid "Init system (service commands)"
 msgstr "Init-System (Dienstbefehle)"
 
 msgid "Which DACs do you want to configure?"
-msgstr "Welche DACs möchten Sie konfigurieren?"
+msgstr "Welche DACs möchtest du konfigurieren?"
 
 msgid "Detecting your DACs…"
 msgstr "DACs werden erkannt…"
@@ -1333,10 +1333,10 @@ msgid "Can't see your DAC?"
 msgstr "DAC nicht sichtbar?"
 
 msgid "Find your DAC's PipeWire node name and paste it here:"
-msgstr "Ermitteln Sie den PipeWire-Knotennamen Ihres DAC und fügen Sie ihn hier ein:"
+msgstr "Ermittel den PipeWire-Knotennamen deines DACs und fügen ihn hier ein:"
 
 msgid "1. Find your DAC under 'Audio > Sinks' and note its number"
-msgstr "1. Suchen Sie Ihren DAC unter 'Audio > Sinks' und notieren Sie dessen Nummer"
+msgstr "1. Suche deinen DAC unter 'Audio > Ausgabe' und notiere dessen Nummer"
 
 msgid "2. Run with that number to read the node.name"
 msgstr "2. Mit dieser Nummer ausführen, um den node.name auszulesen"
@@ -1351,7 +1351,7 @@ msgid "Review & Apply"
 msgstr "Prüfen und anwenden"
 
 msgid "QBZ never writes these files"
-msgstr "QBZ schreibt diese Dateien nie"
+msgstr "QBZ schreibt niemals solche Dateien"
 
 msgid "QBZ already pins rate, sink and exclusive mode at runtime. These files only change system-wide behavior — copy and run them yourself if you want them. Back up first."
 msgstr "QBZ legt Rate, Sink und Exklusivmodus bereits zur Laufzeit fest. Diese Dateien ändern nur das systemweite Verhalten — kopieren und führen Sie sie selbst aus, wenn Sie sie möchten. Erstellen Sie zuerst eine Sicherung."
